@@ -1,6 +1,11 @@
 # Foundation 3.0, for WordPress
 
-A modified versio
+A modified version of **Drew Morris's** Foundation theme for wordpress, updating it to include the newly released Foundation 3.
+
+I've put it together as a starter theme for my projects, so there may be some strange inconsistancies that make sense for me, but feel free to help fix it up and make it more usable for everyone.
+
+
+#Drew's original Readme
 
 Foundation, for WordPress, is a blank starter theme with the exceptional capabilities of [ZURB's Foundation Framework](http://foundation.zurb.com/) and [HTML5 Boilerplate](http://html5boilerplate.com/).
 
@@ -78,6 +83,10 @@ You can manage Orbit's options through app.js (don't worry, theres an options pa
 + Follow [Drew on Twitter](http://www.twitter.com/drewsymo)
 + Follow [Drew on Google +](https://plus.google.com/114153589610660530694?rel=author)
 + View [Drew's Website](http://www.drewsymo.com)
+
+**Matt Edwards**
++ Twitter: [@mtedwards](http://twitter.com/mtedwards)
++ [Emptyhead](http://emptyhead.com.au)
 
 ## License
 
