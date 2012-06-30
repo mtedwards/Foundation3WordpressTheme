@@ -1,0 +1,14 @@
+/* 
+Theme Name: Foundation 3.0, for WordPress
+Theme URI: http://www.emptyhead.com.au
+Description: A Responsive Starter Theme, built on @drewsymo original foundation theme and Zurb foundation 3.0
+Author: @FoundationZURB, @drewsymo, @mtedwards
+Author URI: 
+Version: 1.0
+License: MIT License
+License URI: http://www.opensource.org/licenses/mit-license.php
+*/
+
+@import url("css/foundation.css");
+@import url("css/app.css");
+[if lt IE 9] @import url("css/ie.css");
